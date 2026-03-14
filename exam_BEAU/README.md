@@ -54,6 +54,6 @@ Il faut faire une mise à jour des données : Réentraîner le modèle en inclua
 
 ## 2. La commande unique pour exécuter votre script.
 
-uv run analyse_data_bike_v4.py
+uv run analyse_data_bike.py
 
 ## 3. OPTIONNEL : Informations supplémentaires qu'il vous sera utile de partager.
