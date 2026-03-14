@@ -1,0 +1,17 @@
+{
+  "id": "019cbeec-3f0c-78f9-b856-06ccebcc2c2d",
+  "name": "regression_monitoring",
+  "description": null,
+  "dashboard": {
+    "name": "regression_monitoring",
+    "panels": [],
+    "tabs": [],
+    "tab_id_to_panel_ids": {}
+  },
+  "team_id": null,
+  "org_id": null,
+  "date_from": null,
+  "date_to": null,
+  "created_at": "2026-03-05T16:54:39.628654",
+  "version": "1"
+}

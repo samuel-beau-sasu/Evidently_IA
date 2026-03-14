@@ -1,0 +1,3 @@
+# requirements.txt
+evidently==0.6.7 
+pandas==2.1.4
